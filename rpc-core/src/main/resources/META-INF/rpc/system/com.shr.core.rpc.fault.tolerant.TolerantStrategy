@@ -1,0 +1,4 @@
+failBack=com.shr.core.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.shr.core.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.shr.core.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.shr.core.rpc.fault.tolerant.FailSafeTolerantStrategy

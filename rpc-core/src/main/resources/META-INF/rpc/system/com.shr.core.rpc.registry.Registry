@@ -1,0 +1,2 @@
+etcd=com.shr.core.rpc.registry.EtcdRegistry
+zookeeper=com.shr.core.rpc.registry.ZooKeeperRegistry

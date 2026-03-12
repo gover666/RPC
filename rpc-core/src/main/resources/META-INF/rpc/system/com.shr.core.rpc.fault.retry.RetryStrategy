@@ -1,0 +1,2 @@
+no=com.shr.core.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.shr.core.rpc.fault.retry.FixedIntervalRetryStrategy
